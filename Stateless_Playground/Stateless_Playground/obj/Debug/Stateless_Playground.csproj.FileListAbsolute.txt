@@ -1,0 +1,9 @@
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\bin\Debug\Stateless_Playground.dll
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\bin\Debug\Stateless_Playground.pdb
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\bin\Debug\nunit.framework.dll
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\bin\Debug\Stateless.dll
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\bin\Debug\nunit.framework.xml
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\bin\Debug\Stateless.xml
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\obj\Debug\Stateless_Playground.csprojResolveAssemblyReference.cache
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\obj\Debug\Stateless_Playground.dll
+C:\Users\Mewald-PC\Documents\GitHub\stateless_playground\Stateless_Playground\Stateless_Playground\obj\Debug\Stateless_Playground.pdb
